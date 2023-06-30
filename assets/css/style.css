@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
+
+/* Navbar */
+.nav-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+img {
+  width: 7rem;
+}
+
+/* Card */
+.card {
+  width: 95%;
+  font-family: "Roboto", sans-serif;
+}
+
+.card-title {
+  font-size: 1.6rem;
+  font-weight: 300;
+  color: #212529;
+}
+
+.name {
+  color: #707070;
+  font-weight: 300;
+  font-size: 1.3rem;
+}
+
+.address {
+  font-size: 1rem;
+}
+
+.sale-price {
+  font-size: 1.6rem;
+}
+
+.regular-price {
+  color: #707070;
+  font-weight: 300;
+  font-size: 1.3rem;
+}
+
+/* Form */
+
+.container-fluid .form-text {
+  font-size: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+/* Footer */
+
+footer .container-fluid {
+  color: #707070;
+}
+
+form button {
+  color: #212529;
+}
+
+.footer-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.footer-text span {
+  display: block;
+}
